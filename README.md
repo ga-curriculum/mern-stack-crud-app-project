@@ -1,4 +1,4 @@
-# ![MERN Stack CRUD App Project](./assets/hero.png)
+# ![MERN Stack CRUD App Project - Individual Project](./assets/hero.png)
 
 ## About
 

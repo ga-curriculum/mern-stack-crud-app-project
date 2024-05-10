@@ -1,4 +1,4 @@
-# ![MERN Stack CRUD App Project - Project Journey](./assets/hero.png)
+# ![MERN Stack CRUD App Project - Individual Project Journey](./assets/hero.png)
 
 Project week is when students typically learn the most. During this week you'll have fewer lectures and deliverables that are not related to your project. Instead, you'll primarily be self-directed to plan, build, and complete your project.
 
