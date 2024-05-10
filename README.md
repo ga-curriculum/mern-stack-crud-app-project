@@ -1,12 +1,17 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![MERN Stack CRUD App Project](./assets/hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
+In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD utilizing Node/Express/MongoDB. They'll also construct a front-end React application capable of interacting with that API through AJAX requrest..
 
 ## Prerequisites
 
-tktk What are the prerequisites of this project?
+This project requires an understanding of:
+
+- Constructing APIs using Express and Node.
+- Securing APIs by utilizing JWTs.
+- Interacting with MongoDB from a Node application to carry out full CRUD on related resources.
+- Constructing React applications capable of interacting with APIs that require JWT authorization to carry out full CRUD on related resources.
 
 ## Content
 
@@ -20,9 +25,11 @@ tktk Make a copy of the Project Requirements document linked in Google Sheets do
 
 [Project Planning Deliverable](./project-planning-deliverable/README.md)
 
-[Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
+[Project GitHub Repo Link Deliverable - Front-end](./project-github-repo-link-deliverable-front-end/README.md)
 
-[Project Deployed Game Link Deliverable](./project-deployed-app-link-deliverable/README.md)
+[Project GitHub Repo Link Deliverable - Back-end](./project-github-repo-link-deliverable-back-end/README.md)
+
+[Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
 [tktk Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 

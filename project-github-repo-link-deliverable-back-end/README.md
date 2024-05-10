@@ -1,13 +1,13 @@
-# ![[tktk Module Name] - Project GitHub Repo Link Deliverable](./assets/hero.png)
+# ![MERN Stack CRUD App Project - Project GitHub Repo Link Deliverable](./assets/hero.png)
 
 > 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas which is intended to potentially be edited by instructors.
 
 ## Introduction
 
-After your project proposal has been approved, the next action you'll take is to set up a GitHub repo for your project.
+After your project proposal has been approved, you'll need to set up a GitHub repo for the back-end of your project.
 
 > 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
-## Details
+## Submitting your GitHub repo link
 
-Submit a link to the GitHub repo that you are using for your [tktk Module Name].
+Submit a link to the ***public*** GitHub repo that you are using for the back-end of your MERN Stack CRUD App Project in Canvas.
