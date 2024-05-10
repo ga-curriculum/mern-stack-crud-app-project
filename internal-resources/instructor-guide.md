@@ -36,7 +36,7 @@ When making edits, be mindful of overwhelming students with irrelevant or unhelp
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:
 
-- [tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit).
+- [Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit).
 - [Project Requirements PDF](../project-requirements/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements/README.md).
 - All MERN Stack CRUD App Project rubrics in Canvas.

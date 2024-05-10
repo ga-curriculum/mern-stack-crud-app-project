@@ -18,50 +18,51 @@ A printable version of the project requirements can be found [here](../project-r
 
 ### MVP
 
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your app must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your project must fulfill the below requirements.
 
-- Express and Node are used to construct a back-end API.
-- React is used to compose a front-end application.
-- JWT token-based authentication is implemented on both the front-end and back-end applications to sign up, sign in, and sign out users.
+- The back-end application is built with Express and Node.
+- The front-end application is built with React.
+- The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
 - Authorization is implemented across the front-end and back-end. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
-- There is at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
-- Full CRUD functionality is implemented.
+- The project has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
+- The project has full CRUD functionality on both the back-end and front-end.
 - The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
-- The app is deployed online so that the rest of the world can use it!
+- The project is deployed online so that the rest of the world can use it!
 
 ### Code convention
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your project must fulfill the below requirements.
 
 - The files in the back-end and front-end applications are organized following the conventions demonstrated in lectures.
 - The code in the back-end and front-end applications adheres to the coding conventions demonstrated in lectures, like using plural names for arrays.
 - The back-end and front-end applications do not contain dead code, commented-out sections, or console logs.
 - The back-end application can be used without encountering errors in the terminal. The front-end application can be used without encountering errors in the browser's console.
 - The back-end application follows RESTful routing conventions for routes.
-- The app does not contain dead code, commented-out sections, or console logs.
-- The app is coded using proper indentation.
+- The back-end and front-end applications do not contain dead code, commented-out sections, or console logs.
+- The back-end and front-end applications are coded using proper indentation.
 
 ### UI/UX
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your front-end app must fulfill the below requirements.
 
-- Your front-end app exhibits a visual theme, like a consistent color palette and cohesive layout across pages.
-- The front-end app is easily navigable by a first-time user. For example, navigation should be done through links instead of having to type in a URL to navigate around the app.
-- CSS Flexbox and/or Grid are used for page layout design.
-- Colors used on the site have appropriate contrast that meet the WCAG 2.0 level AA standard.
+- The app exhibits a visual theme, like a consistent color palette and cohesive layout across pages.
+- The app is easily navigable by a first-time user. For example, navigation should be done through links instead of having to type in a URL to navigate around the app.
+- The app utilizes CSS Flexbox and/or Grid for page layout design.
+- Colors used in the app have appropriate contrast that meet the WCAG 2.0 level AA standard.
 - When editing an item, the form is pre-filled with that item's details.
 - Only the user who created a piece of data can see and interact with the UI for editing or deleting that data.
-- All images on the site have `alt` text.
+- All images have `alt` text.
 - No text is placed on top of an image in a way that makes the text inaccessible.
 - All buttons are styled.
 
-### Git
+### Git and GitHub
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
 
 - You are shown as the only contributor to the project on GitHub.
 - The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
-- **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one. Your commit messages should be descriptive of the work done in that commit.
+- **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
+- Commit messages should be descriptive of the work done in that commit.
 
 ## README requirements
 
@@ -78,8 +79,7 @@ Your front-end `README.md` file should contain the following:
 
 Your back-end `README.md` file should contain the following:
 
-- Your app's name.
-- A link to the front-end repository.
+- The name of the project and a link pointing to the front-end repository on GitHub for more details on the project
 
 ## Presentation requirements
 
