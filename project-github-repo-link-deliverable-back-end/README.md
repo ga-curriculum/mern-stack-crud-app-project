@@ -1,6 +1,6 @@
 # ![MERN Stack CRUD App Project - Individual Project GitHub Repo Link Deliverable](./assets/hero.png)
 
-> 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas which is intended to potentially be edited by instructors.
+> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
 
 ## Introduction
 
@@ -10,4 +10,4 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 ## Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for the back-end of your MERN Stack CRUD App Project in Canvas.
+Submit a link to the ***public*** GitHub repo that you are using for the back-end of your MERN Stack CRUD App Project.

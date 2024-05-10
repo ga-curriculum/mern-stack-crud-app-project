@@ -1,6 +1,16 @@
 # ![MERN Stack CRUD App Project - Individual Project Details](./assets/hero.png)
 
+> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
+
 ## Notes and guidance
+
+### Project recommendations
+
+Many apps you interact with daily can provide inspiration for this project as they are full-stack CRUD apps!
+
+Lean towards building an app that manages or tracks things of personal interest to you.
+
+Avoid things like games, portfolio sites, marketing, or e-commerce sites.
 
 ### Getting started
 
@@ -8,11 +18,11 @@ Here are some quick tips to get your project started:
 
 - Discuss your app idea with an instructor to get feedback before you dive too deep into planning.
 - ***Keep it simple.*** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to an app without polish.
-- As you're learning React, it may take you longer than you might initially hope to implement features and funcationality on the front-end. This cannot be stressed enough: ***keep it simple, and focus on basic functionality first before you explore more advanced features.***
-- Prioritize and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go.
-- When adding functionality to your back-end application, test that functionality using Postman or a similar tool before building the UI for that feature on in your front-end app.
+- Implementing features and functionality on the front-end may take longer than you initially hoped. This cannot be stressed enough: ***keep it simple and focus on basic functionality first before you explore more advanced features.***
+- Prioritize and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
+- When adding functionality to your back-end application, test it using Postman or a similar tool before building the UI for that feature on in your front-end app.
 - Theme your app to give it a personal touch.
-- Add comments to your code where it makes sense to do so. Most code is self-documenting and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
+- Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
 - Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
 
 ### Project assistance

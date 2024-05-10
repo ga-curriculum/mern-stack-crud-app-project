@@ -1,6 +1,6 @@
 # ![MERN Stack CRUD App Project - Individual Project Planning Deliverable](./assets/hero.png)
 
-> 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas which is intended to potentially be edited by instructors.
+> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
 
 ## Introduction
 
@@ -38,4 +38,4 @@ Some students like to use Trello during project week to keep track of their work
 
 ## Submitting your planning materials
 
-Submit a link to your ***publicly visible*** Trello board in Canvas.
+Submit a link to your ***publicly visible*** Trello board.
