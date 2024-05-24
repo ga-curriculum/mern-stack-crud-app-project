@@ -1,4 +1,4 @@
-# ![MERN Stack CRUD App Project - Individual Project Deployed App Link Deliverable](./assets/hero.png)
+# ![MERN Stack CRUD App Project - Project Deployed App Link Deliverable](./assets/hero.png)
 
 ## Introduction
 
