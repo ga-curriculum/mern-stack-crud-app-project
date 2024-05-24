@@ -1,7 +1,5 @@
 # ![MERN Stack CRUD App Project - Individual Project Details](./assets/hero.png)
 
-> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
-
 ## Notes and guidance
 
 ### Project recommendations
@@ -27,7 +25,7 @@ Here are some quick tips to get your project started:
 
 ### Project assistance
 
-Your instructor team will provide guidelines for reaching out for help during project week.
+Your instructor team will provide guidelines for reaching out for help during the project.
 
 ## Presentation ideas
 

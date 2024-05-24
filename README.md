@@ -21,6 +21,16 @@ This project requires an understanding of:
 
 [Project Details](./project-details/README.md)
 
+[Project Deliverables](./project-deliverables/README.md)
+
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit)
+
+### Extras
+
+The below content may be useful resources if you decide to customize this content.
+
 [Project Planning Deliverable](./project-planning-deliverable/README.md)
 
 [Project GitHub Repo Link Deliverable - Front-end](./project-github-repo-link-deliverable-front-end/README.md)
@@ -28,10 +38,6 @@ This project requires an understanding of:
 [Project GitHub Repo Link Deliverable - Back-end](./project-github-repo-link-deliverable-back-end/README.md)
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
-
-[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
-
-[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit)
 
 ## Internal resources
 

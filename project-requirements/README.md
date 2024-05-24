@@ -12,7 +12,7 @@ On the front-end, you'll construct a React application that uses AJAX to communi
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
-A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
+A printable version of the project requirements can be found [here](./assets/project-requirements.pdf).
 
 ## Technical requirements
 
@@ -24,7 +24,7 @@ A printable version of the project requirements can be found [here](../project-r
 - The front-end application is built with React.
 - The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
 - Authorization is implemented across the front-end and back-end. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
-- The project has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
+- The project has at least two data entities in addition to the User model. At least one entity must have a relationship with the User model.
 - The project has full CRUD functionality on both the back-end and front-end.
 - The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
 - The project is deployed online so that the rest of the world can use it!
@@ -60,7 +60,7 @@ A printable version of the project requirements can be found [here](../project-r
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
 
 - You are shown as the only contributor to the project on GitHub.
-- The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
+- The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure it is public.***
 - **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
 - Commit messages should be descriptive of the work done in that commit.
 
