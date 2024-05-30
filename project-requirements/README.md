@@ -22,6 +22,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 - The back-end application is built with Express and Node.
 - The front-end application is built with React.
+- MongoDB is used as the database management system.
 - The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
 - Authorization is implemented across the front-end and back-end. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
 - The project has at least two data entities in addition to the User model. At least one entity must have a relationship with the User model.
