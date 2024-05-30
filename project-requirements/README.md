@@ -60,8 +60,8 @@ A printable version of the project requirements can be found [here](./assets/pro
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
 
 - You are shown as the only contributor to the project on GitHub.
-- The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure it is public.***
-- **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
+- The GitHub repositories used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or mern-stack-project are not. The repos must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure they are public.***
+- **Your repos should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
 - Commit messages should be descriptive of the work done in that commit.
 
 ## README requirements
