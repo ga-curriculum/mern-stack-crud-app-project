@@ -20,7 +20,7 @@ When you submit your project planning materials your proposal will either be app
 
 ## 2. Create a GitHub repo
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [MERN Stack CRUD App Project Deliverables](../project-deliverables/README.md) for more details.
+Once your project proposal is approved, create the public GitHub repos that you'll use for the project. See the [MERN Stack CRUD App Project Deliverables](../project-deliverables/README.md) for more details.
 
 ## 3. Build the project
 

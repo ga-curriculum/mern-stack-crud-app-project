@@ -76,13 +76,14 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for your [tktk Module Name] below in the following format:
+Submit a link to the ***public*** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Project below in the following format:
 
 ```plaintext
-GitHub repo link: <link>
+Front-end GitHub repo link: <link>
+Back-end GitHub repo link: <link>
 ```
 
-Replacing `<link>` (including the `<` and `>`) with a link to your GitHub repo.
+Replacing `<link>` (including the `<` and `>`) with a link to your front-end and back-end GitHub repos.
 
 ### Submitting your deployed app link
 

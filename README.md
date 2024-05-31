@@ -2,6 +2,8 @@
 
 ## About
 
+***Instructors should see the Instructor Guide for more configuration details.***
+
 In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD utilizing Node/Express/MongoDB. They'll also construct a front-end React application capable of interacting with that API through AJAX requests.
 
 ## Prerequisites
@@ -38,6 +40,10 @@ The below content may be useful resources if you decide to customize this conten
 [Project GitHub Repo Link Deliverable - Back-end](./project-github-repo-link-deliverable-back-end/README.md)
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
+
+[Project Planning and GitHub Repo Link Deliverable](./project-planning-and-github-repo-link-deliverable/README.md)
+
+[Project GitHub Repo and Deployed App Links Deliverable](./project-github-repo-and-deployed-app-links-deliverable/README.md)
 
 ## Internal resources
 
