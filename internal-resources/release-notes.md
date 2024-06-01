@@ -2,4 +2,4 @@
 
 ## Version 1.0 - Updates from legacy content
 
-This release modularizes the legacy Project 3 Requirements.
+This release modularizes the legacy Project 4 Requirements.
