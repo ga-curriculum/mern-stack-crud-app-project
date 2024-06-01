@@ -18,7 +18,7 @@ Customize your project week by adding to the existing project documentation. Exi
 
 You should not add, remove, or alter any project requirements.
 
-The MEN Stack CRUD App Project Details page provides some basic background information for the project. Sensible defaults are provided here, but you may want to add some details on top of what this document provides to match how you'd like to structure your project week for your students.
+The MERN Stack CRUD App Project Details page provides some basic background information for the project. Sensible defaults are provided here, but you may want to add some details on top of what this document provides to match how you'd like to structure your project week for your students.
 
 Some existing items already covered in this document that you may want to expand on include:
 
