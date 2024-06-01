@@ -4,14 +4,14 @@
 
 **Deliverable details**:
 
-- GitHub repo deliverable
+- GitHub repo deliverables
 - Deployed app link deliverable
 
 **Submitting deliverables**:
 
 - Submitting your deliverables
 
-## GitHub repo deliverable
+## GitHub repo deliverables
 
 After your project proposal has been approved, you will need to set up two GitHub repos - one for the front-end of your project and another for the back-end of your project.
 

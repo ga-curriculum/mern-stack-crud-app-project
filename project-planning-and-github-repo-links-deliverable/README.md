@@ -1,11 +1,11 @@
-# ![MERN Stack CRUD App Project - Project Planning and GitHub Repo Link Deliverable](./assets/hero.png)
+# ![MERN Stack CRUD App Project - Project Planning and GitHub Repo Links Deliverable](./assets/hero.png)
 
 ## Contents
 
 **Deliverable details**:
 
 - Project planning deliverable
-- GitHub repo deliverable
+- GitHub repo deliverables
 
 **Submitting deliverables**:
 
@@ -45,9 +45,9 @@ An example of an acceptable Trello board submission is shown here:
 
 Some students like to use Trello during project week to keep track of their work. While you're more than welcome to do this, it is not a project requirement, and the method you use to organize your work is ultimately up to you!
 
-## GitHub repo deliverable
+## GitHub repo deliverables
 
-After your project proposal has been approved, you'll need to set up a GitHub repo for your project.
+After your project proposal has been approved, you will need to set up two GitHub repos - one for the front-end of your project and another for the back-end of your project.
 
 > 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
@@ -65,12 +65,13 @@ Project planning link: <link>
 
 Replacing `<link>` (including the `<` and `>`) with a link to your project planning materials.
 
-### Submitting your GitHub repo link
+### Submitting your GitHub repo links
 
-Submit a link to the ***public*** GitHub repo that you are using for your [tktk Module Name] below in the following format:
+Submit a link to the ***public*** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Project below in the following format:
 
 ```plaintext
-GitHub repo link: <link>
+Front-end GitHub repo link: <link>
+Back-end GitHub repo link: <link>
 ```
 
-Replacing `<link>` (including the `<` and `>`) with a link to your GitHub repo.
+Replacing `<link>` (including the `<` and `>`) with a link to your front-end and back-end GitHub repos.

@@ -74,7 +74,7 @@ Project planning link: <link>
 
 Replacing `<link>` (including the `<` and `>`) with a link to your project planning materials.
 
-### Submitting your GitHub repo link
+### Submitting your GitHub repo links
 
 Submit a link to the ***public*** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Project below in the following format:
 
