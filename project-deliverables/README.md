@@ -87,7 +87,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your front-end and
 
 ### Submitting your deployed app link
 
-Deploy your project by following the guides above. Submit a link to your deployed front-end app in the following format:
+Deploy your project by following the guides above. Submit a link to your deployed front-end app below in the following format:
 
 ```plaintext
 Deployed project link: <link>
