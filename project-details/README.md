@@ -20,8 +20,8 @@ Here are some quick tips to get your project started:
 - Prioritize and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
 - When adding functionality to your back-end application, test it using Postman or a similar tool before building the UI for that feature on in your front-end app.
 - Theme your app to give it a personal touch.
-- Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
 - Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
+- Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
 
 ### Project assistance
 
