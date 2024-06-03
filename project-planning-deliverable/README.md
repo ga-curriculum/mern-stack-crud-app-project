@@ -36,4 +36,4 @@ Some students like to use Trello during project week to keep track of their work
 
 ## Submitting your planning materials
 
-Submit a link to your ***publicly visible*** Trello board.
+Submit a link to your ***publicly visible*** Trello board below.
