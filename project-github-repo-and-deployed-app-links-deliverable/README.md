@@ -21,9 +21,9 @@ After your project proposal has been approved, you will need to set up two GitHu
 
 During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.
 
-Follow the [MEN Stack Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/men-stack-deployment/) to deploy your back-end MEN Stack application.
+Follow the [MEN Stack Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/men-stack-deployment/) to deploy your back-end MEN Stack application.
 
-Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
+Follow the [React Front-End Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
 
 ## Submitting your deliverables
 
